@@ -7,7 +7,7 @@
 <!--     -->
 
 <div style="width: 600px; height: 10px; overflow: hidden;">
-  <img src="https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif" style="width: 100%; height: auto; object-fit: cover;">
+  <img src="https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif" style="position: absolute; top: -50px; left: 0; width: 100%;">
 </div>
 
 <!--
