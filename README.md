@@ -1,5 +1,5 @@
 ## Hi there 👋
- <img align="right" alt="Coding" width="400" src="[https://i.redd.it/7hjok9imnwd91.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0cWLkZyUpoWqIHvxip4V4B&ust=1720690804522000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDirPOWnIcDFQAAAAAdAAAAABAE)">
+ <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FYoneMains%2Fcomments%2Fw8iccb%2Fkeepsafe_so_while_we_will_never_know_if_yone%2F&psig=AOvVaw1Kbv9Oxl7Cdz3pM02KOk19&ust=1720690613753000&source=images&opi=89978449">
 
 <!--
 **OGSmurfen/OGSmurfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
