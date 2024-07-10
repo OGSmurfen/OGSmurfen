@@ -6,7 +6,7 @@
 ![Welcome GIF](https://media1.tenor.com/m/iFTAU30-5HAAAAAd/kin-of-the-stained-blade-yone.gif)   -->
 <!--     -->
 
-<div style="width: 300px; height: 100px; overflow: hidden;">
+<div style="width: 600px; height: 10px; overflow: hidden;">
   <img src="https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
