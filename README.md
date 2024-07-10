@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-
+</br>
 - 📫 Graduated the Technical University of Varna with Software and Internet Technologies ✨
 - 😄 I'm PapaSmurfie - GameDev with 190K+ downloads: https://play.google.com/store/apps/developer?id=PapaSmurfie&hl=en
 - 🔭 I’m currently working on developing my professional skills.
