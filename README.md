@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmurfen&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OGSmurfen)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=OGSmurfen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGSmurfen&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGSmurfen&layout=compact)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGSmurfen&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGSmurfen&layout=compact)-->
