@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing my professional skills.
 - 🌱 I love Java and C# the most!
 - 👯 Reach me at: chakarov.ilia@gmail.com
-- 😄 Pronouns: I'm HIM !
+- 😄 Pronouns: HIM !
 - ⚡ Fun fact: I also do fencing for the Bulgarian National Team!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmurfen&show_icons=true&theme=radical)
