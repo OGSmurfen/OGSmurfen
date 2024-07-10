@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz?si=8a0b6ad057e44380)
+
 <!--![Welcome GIF](https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif) YONE classic-->
 <!--  ![Welcome GIF](https://media1.tenor.com/m/uqKRenZlbE8AAAAd/kin-of-the-stained-blade-yasuo.gif)   -->
 <!--  
