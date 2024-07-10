@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmurfen&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OGSmurfen)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OGSmurfen)](https://github.com/ryo-ma/github-profile-trophy)
