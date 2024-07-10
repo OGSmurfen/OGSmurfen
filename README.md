@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 🎵 Listen to my favorite song!
 <audio controls>
-  <source src="https://www.youtube.com/watch?v=qfBtPySlU-M" type="audio/mpeg">
+  <source src="https://soundcloud.com/key-glock1/mr-glock?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <!--![Welcome GIF](https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif) YONE classic-->
