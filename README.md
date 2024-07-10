@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-![Welcome GIF]([https://media.giphy.com/media/your-gif-url/giphy.gif](https://i.redd.it/7hjok9imnwd91.gif))
+![Welcome GIF]([[https://media.giphy.com/media/your-gif-url/giphy.gif](https://i.redd.it/7hjok9imnwd91.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FYoneMains%2Fcomments%2Fw8iccb%2Fkeepsafe_so_while_we_will_never_know_if_yone%2F&psig=AOvVaw1Kbv9Oxl7Cdz3pM02KOk19&ust=1720690613753000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjjwJiWnIcDFQAAAAAdAAAAABAQ))
 - 📫 Graduated the Technical University of Varna with Software and Internet Technologies ✨
 - 😄 I'm PapaSmurfie - GameDev with 190K+ downloads: https://play.google.com/store/apps/developer?id=PapaSmurfie&hl=en
 - 🔭 I’m currently working on developing my professional skills.
