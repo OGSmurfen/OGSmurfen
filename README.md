@@ -1,5 +1,5 @@
 ## Hi there 👋
- <img align="right" alt="Coding" width="400" src="https://i.redd.it/7hjok9imnwd91.gif">
+ <img align="right" alt="Coding" width="400" src="[https://i.redd.it/7hjok9imnwd91.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw0cWLkZyUpoWqIHvxip4V4B&ust=1720690804522000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDirPOWnIcDFQAAAAAdAAAAABAE)">
 
 <!--
 **OGSmurfen/OGSmurfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
