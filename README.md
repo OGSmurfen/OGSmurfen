@@ -1,4 +1,6 @@
 ## Hi there 👋
+ <img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://i.redd.it/7hjok9imnwd91.gif)">
 
 <!--
 **OGSmurfen/OGSmurfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
