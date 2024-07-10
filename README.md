@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also do fencing for the Bulgarian National Team!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmurfen)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmurfen&show_icons=true)
