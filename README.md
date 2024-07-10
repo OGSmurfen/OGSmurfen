@@ -2,10 +2,10 @@
 
 <!--![Welcome GIF](https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif) YONE classic-->
 <!--  ![Welcome GIF](https://media1.tenor.com/m/uqKRenZlbE8AAAAd/kin-of-the-stained-blade-yasuo.gif)   -->
+<!--  
+![Welcome GIF](https://media1.tenor.com/m/iFTAU30-5HAAAAAd/kin-of-the-stained-blade-yone.gif)   -->
 <!--     -->
-
-![Welcome GIF](https://media1.tenor.com/m/iFTAU30-5HAAAAAd/kin-of-the-stained-blade-yone.gif)
-
+<img src="https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif" width="500" height="300" />
 
 
 <!--
