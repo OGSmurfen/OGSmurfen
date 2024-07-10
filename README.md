@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 <!--![Welcome GIF](https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif) YONE classic-->
-![Welcome GIF](https://media1.tenor.com/m/uqKRenZlbE8AAAAd/kin-of-the-stained-blade-yasuo.gif)
+<!--  ![Welcome GIF](https://media1.tenor.com/m/uqKRenZlbE8AAAAd/kin-of-the-stained-blade-yasuo.gif)   -->
+<!--     -->
+
+![Welcome GIF](https://media1.tenor.com/m/iFTAU30-5HAAAAAd/kin-of-the-stained-blade-yone.gif)
+
+
 
 <!--
 **OGSmurfen/OGSmurfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
