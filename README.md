@@ -1,8 +1,5 @@
 ## Hi there 👋
-### 🎵 Listen to my favorite song!
-<audio controls>
-  <source src="https://soundcloud.com/key-glock1/mr-glock?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" type="audio/mpeg">
-</audio>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 <!--![Welcome GIF](https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif) YONE classic-->
 <!--  ![Welcome GIF](https://media1.tenor.com/m/uqKRenZlbE8AAAAd/kin-of-the-stained-blade-yasuo.gif)   -->
 <!--  
