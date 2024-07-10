@@ -5,8 +5,10 @@
 <!--  
 ![Welcome GIF](https://media1.tenor.com/m/iFTAU30-5HAAAAAd/kin-of-the-stained-blade-yone.gif)   -->
 <!--     -->
-<img src="https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif" width="500" height="100" />
 
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <img src="https://media1.tenor.com/m/t7-sS3GZyaoAAAAd/yone-league-of-legends.gif" style="width: 100%; height: auto; object-fit: cover;">
+</div>
 
 <!--
 **OGSmurfen/OGSmurfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
