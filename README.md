@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Welcome GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+![Welcome GIF]([https://media.giphy.com/media/your-gif-id/giphy.gif](https://i.redd.it/7hjok9imnwd91.gif))
 <!--
 **OGSmurfen/OGSmurfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
